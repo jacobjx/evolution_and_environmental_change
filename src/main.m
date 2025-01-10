@@ -3,7 +3,8 @@
 % to a gradually moving resource maximum. Calls the core simulation function 
 % simulate_moving_optimum.m.
 %
-% Based on J
+% Based on Johansson, J. 2008. Evolutionary responses to environmental changes: 
+% How does competition affect adaptation? Evolution 62: 421–435.
 
 
 %parameters values (default)
