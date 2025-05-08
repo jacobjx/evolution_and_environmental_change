@@ -25,7 +25,7 @@ The model depicts populations competing for resources defined along a single tra
   - `sigma_k`: Width of the resource landscape.
   - `Kopt`: Position of the resource maximum.
   - `K`: Carrying capacity at the maximum.
-- **Competition**: Intensity \( \alpha \) depends on niche overlap, with higher overlap leading to stronger competition.
+- **Competition**: Intensity \($\alpha$) depends on niche overlap, with higher overlap leading to stronger competition.
 - **Species and Reproduction**:
   - Species are reproductively isolated, hermaphroditic, and modeled with a 10-loci diploid genome.
   - Mutation effects are drawn from a normal distribution with standard deviation `sigma_mu`.
